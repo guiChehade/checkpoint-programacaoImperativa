@@ -65,6 +65,7 @@ function microondas(codAlimento,tempoCliente,tempoPadrao) {
         console.log("Tempo Insuficiente");
     }
 
+// Mensagem para todas as interações (entendemos pelo enunciado que devemos exibir essa mensagem em todos os casos)
     console.log("Prato pronto, bom apetite!!!")
 }
 
