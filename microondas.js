@@ -12,7 +12,7 @@ Weverton Gois
 */
 
 
-//aqui o cliente vai clicar no botão do alimento e/ou definir o tempo que deseja
+// o cliente vai clicar no botão do alimento e/ou definir o tempo que deseja
 // se o cliente não quiser definir o tempo, tempoCliente deve ser 0
 var alimento = "Pipoca";
 var tempoCliente = 0;
