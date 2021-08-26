@@ -6,7 +6,7 @@ Integrantes:
 Anna Karla Americo
 Guilherme Chehade
 Luana Borges
-Ricardo Ramanho Del Bianco
+Ricardo Ramalho Del Bianco
 Wállex de França
 Weverton Gois
 */
@@ -15,7 +15,7 @@ Weverton Gois
 //aqui o cliente vai clicar no botão do alimento e/ou definir o tempo que deseja
 // se o cliente não quiser definir o tempo, tempoCliente deve ser 0
 var alimento = "Pipoca";
-var tempoCliente = 5;
+var tempoCliente = 0;
    
 // definindo tempo padrão e código de cada alimento, dependendo do que o cliente selecionar
 switch (alimento){
